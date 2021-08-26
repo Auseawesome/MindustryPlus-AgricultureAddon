@@ -1,0 +1,11 @@
+type: PowerNode
+size: 2
+
+requirements: [
+  copper/5
+  titanium/1
+]
+laserRange:15
+maxNodes:2
+category: power
+research: connector-wire-node

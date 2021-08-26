@@ -2,10 +2,10 @@ type: PowerNode
 size: 1
 
 requirements: [
-  copper/1
+  copper/5
   lead/1
 ]
-laserRange:1
-maxNodes:8
+laserRange:6
+maxNodes:2
 category: power
 research: wire-node
