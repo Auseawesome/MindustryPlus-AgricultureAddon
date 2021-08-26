@@ -1,0 +1,11 @@
+name: "mindustry-plus-betamindy"
+displayName: "Mindustry+ BetaMindy Compatability"
+author: Auseawesome
+description: "A mod made to allow MindustryPlus and BetaMindy to work well together"
+version: "Alpha 0.1"
+minGameVersion: "126.2"
+dependencies: [
+  mindustry-plus
+  betamindy
+]
+hidden: false
