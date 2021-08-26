@@ -5,7 +5,7 @@ requirements: [
   copper/5
   titanium/1
 ]
-laserRange:15
+laserRange:9.5
 maxNodes:2
 category: power
-research: connector-wire-node
+research: power-node
