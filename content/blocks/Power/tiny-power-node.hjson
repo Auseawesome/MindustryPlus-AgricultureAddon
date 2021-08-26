@@ -4,7 +4,7 @@ size: 1
 requirements: [
   copper/1
 ]
-laserRange:2
+laserRange:1
 maxNodes:2
 category: power
 research: power-node
