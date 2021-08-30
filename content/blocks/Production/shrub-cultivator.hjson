@@ -4,9 +4,6 @@ size: 2
 hasPower: true
 hasLiquid: true
 attribute: heat
-baseEfficiency: 1
-boostScale: 0.1
-maxHeatBoost: 1.5
 consumes: {
   liquid: {
       liquid: water
