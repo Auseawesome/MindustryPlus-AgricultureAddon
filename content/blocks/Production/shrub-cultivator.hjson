@@ -1,0 +1,21 @@
+type: Cultivator
+craftTime: 15
+size: 2
+hasPower: true
+hasLiquid: true
+consumes: {
+  liquids: {
+    liquids: [
+      water/1
+    ]
+  }
+  power: 0.5
+}
+requirements: [
+  copper/100
+  lead/50
+  graphite/25
+]
+category: crafting
+outputItem: shrub/1
+research: cultivator
