@@ -4,10 +4,9 @@ size: 2
 hasPower: true
 hasLiquid: true
 consumes: {
-  liquids: {
-    liquids: [
-      water/1
-    ]
+  liquid: {
+      liquid: water
+      amount: 0.2
   }
   power: 0.5
 }
