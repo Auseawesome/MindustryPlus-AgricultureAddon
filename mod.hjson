@@ -1,11 +1,10 @@
-name: "mindustry-plus-pbn"
-displayName: "Mindustry+ Powered by Nature Compatibility"
+name: "mindustry-plus-agriculture"
+displayName: "Mindustry+ Agriculture Addon"
 author: Auseawesome
-description: "A mod made to allow MindustryPlus and Powered by Nature to work well together"
+description: "A mod made to add more plants into Mindustry"
 version: "Alpha 0.1"
 minGameVersion: "126.2"
 dependencies: [
   mindustry-plus
-  powered-by-nature
 ]
 hidden: false

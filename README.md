@@ -1,4 +1,4 @@
-# Mindustry+ Powered by Nature Compatibility
-A Json mod for mindustry designed to add features to make mindustry+ and powered by nature work well together
+# Mindustry+ Agriculture Addon
+A Json mod for mindustry designed to add more plants to mindustry+ 
 
-It adds new power generation and batteries in the style of powered by nature but with recipes using Mindustry+ items
+It adds many more culivatable plants and some new floors too
