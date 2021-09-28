@@ -1,2 +1,5 @@
 const fertility = Attribute.add("fertility")
 Blocks.grass.attributes.set(fertility, 0.5)
+Blocks.mud.attributes.set(fertility, 0.375)
+Blocks.dirt.attributes.set(fertility, 0.25)
+Blocks.sand.attributes.set(fertility, 0.1)
