@@ -2,6 +2,7 @@ type: StackConveyor
 health: 100
 itemCapacity: 8
 speed: 0.04
+displayedSpeed: 8.2
 research: conveyor
 requirements: [
   wooden-framing/1
