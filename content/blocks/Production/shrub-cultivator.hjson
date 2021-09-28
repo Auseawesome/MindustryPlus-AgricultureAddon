@@ -1,4 +1,4 @@
-type: Cultivator
+type: AttributeCrafter
 craftTime: 15
 size: 2
 hasPower: true
