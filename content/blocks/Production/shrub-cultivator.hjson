@@ -4,8 +4,8 @@ size: 2
 hasPower: true
 hasLiquid: true
 attribute: fertility
-baseEfficiency: 0,
-boostScale: 0.1
+baseEfficiency: 0
+boostScale: 0.3125
 consumes: {
   liquid: {
       liquid: water
