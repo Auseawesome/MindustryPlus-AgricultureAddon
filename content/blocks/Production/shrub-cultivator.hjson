@@ -16,9 +16,9 @@ consumes: {
 }
 requirements: [
   copper/100
-  graphite/50
-  metaglass/25
+  lead/50
+  graphite/25
 ]
 category: crafting
 outputItem: shrub/1
-research: mechanicalPump
+research: mechanical-pump
