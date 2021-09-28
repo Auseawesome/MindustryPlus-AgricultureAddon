@@ -1,0 +1,22 @@
+type: GenericCrafter
+craftTime: 30
+size: 2
+hasPower: true
+consumes: {
+  items: {
+    items: [
+      {
+        item: shrub/2
+      }
+    ]
+  }
+  power: 0.5
+}
+requirements: [
+  copper/100
+  lead/50
+  graphite/25
+]
+category: crafting
+outputItems: [wood/1,leaf/3]
+research: cultivator
