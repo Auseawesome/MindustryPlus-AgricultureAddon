@@ -5,10 +5,12 @@ hasPower: true
 consumes: {
   items: {
     items: [
-      shrub/2
+      {
+        item: shrub/2
+      }
     ]
   }
-  power: 0.5
+  power: 1
 }
 requirements: [
   copper/100
