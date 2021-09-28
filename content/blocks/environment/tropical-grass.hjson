@@ -1,3 +1,6 @@
 type: Floor
 status: mindustry-plus-agriculture-invigorated
 statusDuration: 160
+attributes: {
+  fertility: 0.8
+}
