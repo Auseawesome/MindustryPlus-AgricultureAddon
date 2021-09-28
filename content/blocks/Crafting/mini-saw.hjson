@@ -14,8 +14,8 @@ consumes: {
 }
 requirements: [
   copper/100
-  lead/50
-  graphite/25
+  graphite/50
+  titanium/25
 ]
 category: crafting
 outputItems: [wood/1,leaf/3]
