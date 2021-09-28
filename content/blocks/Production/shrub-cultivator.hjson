@@ -6,6 +6,7 @@ hasLiquid: true
 attribute: fertility
 baseEfficiency: 0
 boostScale: 0.5
+maxBoost: 5.0
 consumes: {
   liquid: {
       liquid: water
