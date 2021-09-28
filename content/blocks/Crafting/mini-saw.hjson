@@ -5,9 +5,7 @@ hasPower: true
 consumes: {
   items: {
     items: [
-      {
-        item: shrub/2
-      }
+      shrub/2
     ]
   }
   power: 0.5
