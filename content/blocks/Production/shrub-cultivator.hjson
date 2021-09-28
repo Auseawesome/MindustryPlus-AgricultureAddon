@@ -3,7 +3,7 @@ craftTime: 15
 size: 2
 hasPower: true
 hasLiquid: true
-attribute: heat
+attribute: fertility
 consumes: {
   liquid: {
       liquid: water
